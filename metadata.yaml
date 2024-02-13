@@ -1,0 +1,30 @@
+_repo: Madame-Therese_72889
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Erckmann-Chatrian
+    - https://fr.wikipedia.org/wiki/Erckmann-Chatrian
+description: ''
+gutenberg_issued: '2024-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72889'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=xVEensYVisIC
+pgterms:marc905: 20231216015917erckmannch
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: www.ebookgratuits.com and Laurent Vogel (This book was produced from
+  scanned images of public domain material from the Google Books project.)
+publication_note: '  $aParis :$bhachette, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Madame Thérèse
+url: http://www.gutenberg.org/ebooks/72889
